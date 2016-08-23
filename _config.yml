@@ -1,0 +1,14 @@
+layout_spectrum: 0.3651613499969244
+typography_spectrum: 0.8827880648896098
+color:
+  brandStrength: 0.6596027528867126
+  lightness: 0.6807587621733546
+  saturation: 0.20521262381225824
+  rhythmicContrast: 0.9468214465305209
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: LuxuryScarf
